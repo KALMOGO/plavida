@@ -103,4 +103,7 @@ python manage.py runserver
 
 > This README was written with the assistance of Claude (Anthropic) for structure and English phrasing.
 
+##Note
+
+This repository contains the backend only (Django REST API). The mobile frontend (Ionic/Angular) was developed separately and is not included here.
 ---
